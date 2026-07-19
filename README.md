@@ -1,8 +1,4 @@
 # DailyRewards
-Simple Daily Rewards plugin for Minecraft servers.
-
-# DailyRewards
-
 Простой и эффективный плагин для ежедневных наград на вашем сервере Minecraft.
 
 ## Описание
