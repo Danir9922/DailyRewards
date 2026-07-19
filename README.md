@@ -1,22 +1,23 @@
 # DailyRewards
-Простой и эффективный плагин для ежедневных наград на вашем сервере Minecraft.
 
-## Описание
-Этот плагин позволяет игрокам получать ежедневные награды через удобное GUI меню. Идеальное решение для удержания игроков на сервере.
+A simple and effective daily rewards plugin for your Minecraft server.
 
-## Возможности
-- 💎 Получение награды через инвентарь (GUI).
-- ⚡ Быстрая и легкая настройка.
-- 🚀 Поддержка версий 1.20+
+## Description
+This plugin allows players to claim daily rewards via a user-friendly GUI menu. It is an ideal solution for player retention.
 
-## Команды
-- `/reward` - Открыть меню ежедневных наград.
+## Features
+- 💎 Claim rewards via an inventory GUI.
+- ⚡ Quick and easy setup.
+- 🚀 Supports versions 1.20+.
 
-## Установка
-1. Скачайте `.jar` файл плагина.
-2. Поместите его в папку `plugins` вашего сервера.
-3. Перезапустите сервер.
-4. Готово!
+## Commands
+- `/reward` - Open the daily rewards menu.
+
+## Installation
+1. Download the plugin's `.jar` file.
+2. Place it in your server's `plugins` folder.
+3. Restart the server.
+4. Done!
 
 ---
-Разработано с использованием Spigot API и Java 21.
+Developed using the Spigot API and Java 21.
