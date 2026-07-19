@@ -1,0 +1,4 @@
+com\danir\dailyrewards\RewardGUI.class
+com\danir\dailyrewards\InventoryListener.class
+com\danir\dailyrewards\DailyRewardsPlugin.class
+com\danir\dailyrewards\RewardCommand.class

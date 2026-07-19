@@ -1,0 +1,8 @@
+name: DailyRewards
+version: 1.0
+main: com.danir.dailyrewards.DailyRewardsPlugin
+api-version: 1.20
+commands:
+  reward:
+    description: Open the daily reward menu
+    usage: /reward

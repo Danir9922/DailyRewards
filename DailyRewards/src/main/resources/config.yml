@@ -1,0 +1,13 @@
+reward-item: DIAMOND
+reward-amount: 1
+cooldown-hours: 24
+gui:
+  item-name: "§aClick to claim Reward!"
+messages:
+  claimed: "§aYou claimed your daily reward!"
+  wait: "§cYou must wait %time% minutes!"
+  opening-menu: "§7Opening reward menu..."
+  no-permission: "§cYou do not have permission to use this command."
+  command-only: "§cOnly players can use this command."
+permissions:
+  use: dailyrewards.use
